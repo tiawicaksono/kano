@@ -1,0 +1,2 @@
+# kano
+load csv
